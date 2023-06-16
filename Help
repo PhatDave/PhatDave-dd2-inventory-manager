@@ -1,0 +1,1 @@
+updater.pubkey => pnpm tauri signer generate -w $HOME/.tauri/myapp.key
