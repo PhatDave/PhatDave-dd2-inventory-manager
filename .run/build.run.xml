@@ -7,8 +7,8 @@
     </scripts>
     <node-interpreter value="project" />
     <envs>
-      <env name="TAURI_PRIVATE_KEY" value="Peroseoprasio123" />
-      <env name="TAURI_KEY_PASSWORD" value="dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5bFRqUCtmNWx1RVpzc0NsbHZoK29VQzJONGZRL2IzQ1Z2YnpaQjY4QVMrY0FBQkFBQUFBQUFBQUFBQUlBQUFBQU9oZjNTQjZMcWtmeUtvblZraGg1Wmo2dGpjcXBpQWlLWXJYajhZSUpTME51eWRlSVFYMDRwY2QybGhkbUdpbjAxWWtmYjdmK2tjVGpMc2g4WGluTjFtakhXYlpMKzFPdGhLRXBKSGRrSG5ESVpsL24yQTM5cGlnQWQxRkxJakxDZ1VEYmRiNXp5emc9Cg==" />
+      <env name="TAURI_PRIVATE_KEY" value="dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5bFRqUCtmNWx1RVpzc0NsbHZoK29VQzJONGZRL2IzQ1Z2YnpaQjY4QVMrY0FBQkFBQUFBQUFBQUFBQUlBQUFBQU9oZjNTQjZMcWtmeUtvblZraGg1Wmo2dGpjcXBpQWlLWXJYajhZSUpTME51eWRlSVFYMDRwY2QybGhkbUdpbjAxWWtmYjdmK2tjVGpMc2g4WGluTjFtakhXYlpMKzFPdGhLRXBKSGRrSG5ESVpsL24yQTM5cGlnQWQxRkxJakxDZ1VEYmRiNXp5emc9Cg==" />
+      <env name="TAURI_KEY_PASSWORD" value="Peroseoprasio123" />
     </envs>
     <method v="2" />
   </configuration>

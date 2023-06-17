@@ -1,5 +1,5 @@
 {
-  "name": "@remaster/desktop",
+  "name": "@dd2/desktop",
   "version": "0.0.1",
   "scripts": {
     "build": "tauri build",
@@ -10,6 +10,6 @@
   "devDependencies": {
     "@tauri-apps/api": "^1.3.0",
     "@tauri-apps/cli": "^1.3.1",
-    "@remaster/web": "workspace:*"
+    "@dd2/web": "workspace:*"
   }
 }
