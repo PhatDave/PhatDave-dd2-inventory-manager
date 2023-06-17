@@ -67,6 +67,10 @@ jobs:
 
       - name: Build frontend
         run: pnpm build
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TAURI_PRIVATE_KEY: ${{ secrets.TAURI_PRIVATE_KEY }}
+          TAURI_KEY_PASSWORD: ${{ secrets.TAURI_KEY_PASSWORD }}
 
       - uses: tauri-apps/tauri-action@v0
         env:
@@ -75,7 +79,7 @@ jobs:
           TAURI_KEY_PASSWORD: ${{ secrets.TAURI_KEY_PASSWORD }}
         with:
           tagName: v__VERSION__
-          releaseName: 'Svelte-Tauri v__VERSION__'
+          releaseName: 'DD2 Inventory Manager v__VERSION__'
           releaseBody: 'See the assets to download this version and install.'
           releaseDraft: false
           prerelease: false
