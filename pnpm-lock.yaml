@@ -50,7 +50,7 @@ importers:
 
   apps/tauri:
     devDependencies:
-      '@remaster/web':
+      '@dd2/web':
         specifier: workspace:*
         version: link:../web
       '@tauri-apps/api':
