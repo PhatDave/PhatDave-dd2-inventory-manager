@@ -19,7 +19,7 @@
       "$layout": ["src/lib/layout"],
       "$layout/*": ["src/lib/layout/*"],
 
-      "$stores": ["src/lib/stor2es"],
+      "$stores": ["src/lib/stores"],
       "$stores/*": ["src/lib/stores/*"],
 
       "$components": ["src/lib/components"],
